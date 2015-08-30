@@ -1,0 +1,49 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_LOCATION": 2,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Chris Haley",
+    "longName": "Centerstone",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cstone_menu.png",
+                "menuIcon": true,
+                "name": "CSTONE_MENU",
+                "type": "png"
+            },
+            {
+                "file": "fonts/GARA.TTF",
+                "name": "GARAMOND_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/GARABD.TTF",
+                "name": "GARAMOND_36",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "CSTONE_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Centerstone",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "585bf103-0b6b-4a2f-83de-4bbdc80b2e5c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
